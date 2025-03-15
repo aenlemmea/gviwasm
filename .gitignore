@@ -10,7 +10,7 @@ idea/
 .vscode/
 VS/
 .kdev4/
-cmpt.kdev4
+*.kdev4
 
 compile_commands.json
 .ycf_conf_extra.py
